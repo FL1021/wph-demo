@@ -1,0 +1,127 @@
+
+header{
+    height: 100px;
+}
+.img_fl{
+   
+
+    padding: 0;
+}
+.img_fl img{
+   height: 100px;
+    width: 130px;
+    margin-left: 30px;
+}
+.img_fr{
+  margin-top: 25px;
+  padding: 0;
+}
+/* .img_fr img{
+   
+ 
+ } */
+/* 内容 */
+.cot{
+    width: 100%;
+    background-color: #FAA8AC;
+}
+.content{
+    height: 650px;
+    width: 100%;
+    background: url(../resource/images/denglu\ bg\ 15487540172274.jpg) no-repeat -350px 0 ;
+    /* background-color: pink; */
+}
+.content form{
+    margin-top: 100px;
+    width: 360px;
+    background-color: white;
+   
+    /* border: 1px solid #333; */
+}
+.content form .form_fl{
+    float: left;
+    width: 179px;
+    height: 50px;
+    line-height: 50px;
+    /* background-color: aqua; */
+    text-align: center;   
+    color: #666;
+    font-size: 18px;
+    font-weight: 700; 
+    cursor: pointer;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 50px;
+}
+.content form .form_fr{
+    float:right;
+    width: 179px;
+    height: 50px;
+    line-height: 50px;
+    /* background-color: pink; */
+    text-align: center;  
+    color: #666;
+    font-size: 18px;
+    font-weight: 700; 
+    cursor: pointer;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 50px;
+    /* overflow: hidden; */
+}
+/* 用户名密码 */
+.fg1{
+    width: 300px;
+    margin-left: 30px;
+}
+.fg2{
+    width: 300px;
+    margin-left: 30px;
+}
+.md_p{
+    width: 300px;
+    margin-left: 30px;
+}
+.md_p .a-p1{
+    float: left;
+    cursor: pointer;
+}
+.md_p .a-p2{
+    float: right;
+    cursor: pointer;
+}
+/* 登录注册btn */
+#submitBtn{
+    width: 100%;
+    background-color: #f10180;
+    font-size:18px;
+    color:white;
+    width: 300px;
+    /* margin-left: 30px; */
+    margin: 30px 0 30px 30px;
+}
+.firstblo{
+    background-color: rgb(14, 192, 14);
+}
+.zhucebtn{
+    width: 100%;
+}
+.zhucebtn{
+    display: block;
+    text-align: center;
+}
+/* footer */
+footer{
+   width: 1000px;
+   margin:0 auto;
+   /* background-color: yellow; */
+   text-align: center;
+   line-height: 78px;
+   height: 78px;
+  
+}
+footer p{
+    margin-top: 50px;
+    font: 12px/1.5 tahoma,arial,Hiragino Sans GB,WenQuanYi Micro Hei,\5FAE\8F6F\96C5\9ED1,\5B8B\4F53,sans-serif;
+    color: #333;
+    /* -webkit-font-smoothing: antialiased; */
+   
+}

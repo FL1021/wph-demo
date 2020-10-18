@@ -1,0 +1,248 @@
+{
+    "code": 200,
+    "msg": "success",
+    "data": {
+        "items": {
+            "100663321": {
+                "activeIndexTips": "",
+                "displayEndtime": 2145887938,
+                "salesNo": "100663321",
+                "brandImage": {
+                    "size1": "//c.vpimg1.com/upcb/2020/09/24/176/ias_469df9b1203e1c9f315d0b8269fef03f_570x273_90.jpg",
+                    "size2": "//c.vpimg1.com/upcb/2020/09/24/176/ias_469df9b1203e1c9f315d0b8269fef03f_320x153_90.jpg"
+                },
+                "mobileImageOne": "//c.vpimg1.com/upcb/2020/09/24/176/ias_469df9b1203e1c9f315d0b8269fef03f.jpg",
+                "agio": "<span class=\"salebg2\">4.5</span>折封顶",
+                "salesName": "Iammix27女装专场",
+                "brandStoreSn": "10037293",
+                "vendorSaleMessage": "",
+                "isSpecialBanner": "0",
+                "hiddenEndTime": 1,
+                "iconInfo": [],
+                "link": "//list.vip.com/100663321.html",
+                "showTimeFrom": 1588761601,
+                "topFiveCountTime": 1602640800
+            },
+            "100663868": {
+                "activeIndexTips": "",
+                "displayEndtime": 2145887938,
+                "salesNo": "100663868",
+                "brandImage": {
+                    "size1": "//c.vpimg1.com/upcb/2020/09/25/1/ias_37199dbd281db5b60556a465e994c800_570x273_90.jpg",
+                    "size2": "//c.vpimg1.com/upcb/2020/09/25/1/ias_37199dbd281db5b60556a465e994c800_320x153_90.jpg"
+                },
+                "mobileImageOne": "//c.vpimg1.com/upcb/2020/09/25/1/ias_37199dbd281db5b60556a465e994c800.jpg",
+                "agio": "<span class=\"salebg2\">3.3</span>折封顶",
+                "salesName": "慕托丽MOTOLEY女装专场",
+                "brandStoreSn": "10013256",
+                "vendorSaleMessage": "",
+                "isSpecialBanner": "0",
+                "hiddenEndTime": 1,
+                "iconInfo": [],
+                "link": "//list.vip.com/100663868.html",
+                "showTimeFrom": 1588768689,
+                "topFiveCountTime": 1602640800
+            },
+            "100675514": {
+                "activeIndexTips": "",
+                "displayEndtime": 1602864000,
+                "salesNo": "100675514",
+                "brandImage": {
+                    "size1": "//d.vpimg1.com/upcb/2020/10/12/23/ias_160249706018167_570x273_90.jpg",
+                    "size2": "//d.vpimg1.com/upcb/2020/10/12/23/ias_160249706018167_320x153_90.jpg"
+                },
+                "mobileImageOne": "//d.vpimg1.com/upcb/2020/10/12/23/ias_160249706018167.jpg",
+                "agio": "<span class=\"salebg2\">2.9</span>折封顶",
+                "salesName": "福玛玛秋冬新品-今日大牌专场",
+                "brandStoreSn": "10020913",
+                "vendorSaleMessage": "",
+                "isSpecialBanner": "0",
+                "hiddenEndTime": 0,
+                "iconInfo": [],
+                "link": "//list.vip.com/100675514.html",
+                "showTimeFrom": 1590976800,
+                "topFiveCountTime": 1602640800
+            },
+            "100684184": {
+                "activeIndexTips": "",
+                "displayEndtime": 1602864000,
+                "salesNo": "100684184",
+                "brandImage": {
+                    "size1": "//d.vpimg1.com/upcb/2020/09/18/31/ias_160041884548336_570x273_90.jpg",
+                    "size2": "//d.vpimg1.com/upcb/2020/09/18/31/ias_160041884548336_320x153_90.jpg"
+                },
+                "mobileImageOne": "//d.vpimg1.com/upcb/2020/09/18/31/ias_160041884548336.jpg",
+                "agio": "<span class=\"salebg2\">5</span>折封顶",
+                "salesName": "佐丹奴GIORDANO男女装-今日大牌专场",
+                "brandStoreSn": "10001324",
+                "vendorSaleMessage": "",
+                "isSpecialBanner": "0",
+                "hiddenEndTime": 0,
+                "iconInfo": [],
+                "link": "//list.vip.com/100684184.html",
+                "showTimeFrom": 1592791200,
+                "topFiveCountTime": 1602640800
+            },
+            "100692253": {
+                "activeIndexTips": "",
+                "displayEndtime": 1602864000,
+                "salesNo": "100692253",
+                "brandImage": {
+                    "size1": "//c.vpimg1.com/upcb/2020/10/12/45/ias_160249567753843_570x273_90.jpg",
+                    "size2": "//c.vpimg1.com/upcb/2020/10/12/45/ias_160249567753843_320x153_90.jpg"
+                },
+                "mobileImageOne": "//c.vpimg1.com/upcb/2020/10/12/45/ias_160249567753843.jpg",
+                "agio": "<span class=\"salebg2\">2.8</span>折封顶",
+                "salesName": "如熙RUXI女鞋-今日大牌专场",
+                "brandStoreSn": "",
+                "vendorSaleMessage": "",
+                "isSpecialBanner": "0",
+                "hiddenEndTime": 0,
+                "iconInfo": [],
+                "link": "//list.vip.com/100692253.html",
+                "showTimeFrom": 1592791200,
+                "topFiveCountTime": 1602640800
+            },
+            "100708185": {
+                "activeIndexTips": "",
+                "displayEndtime": 1602864000,
+                "salesNo": "100708185",
+                "brandImage": {
+                    "size1": "//c.vpimg1.com/upcb/2020/10/12/68/ias_160249418010618_570x273_90.jpg",
+                    "size2": "//c.vpimg1.com/upcb/2020/10/12/68/ias_160249418010618_320x153_90.jpg"
+                },
+                "mobileImageOne": "//c.vpimg1.com/upcb/2020/10/12/68/ias_160249418010618.jpg",
+                "agio": "<span class=\"salebg2\">5</span>折封顶",
+                "salesName": "妖精的口袋集团-今日大牌",
+                "brandStoreSn": "",
+                "vendorSaleMessage": "",
+                "isSpecialBanner": "0",
+                "hiddenEndTime": 0,
+                "iconInfo": [],
+                "link": "//list.vip.com/100708185.html",
+                "showTimeFrom": 1598925600,
+                "topFiveCountTime": 1602640800
+            },
+            "100717047": {
+                "activeIndexTips": "",
+                "displayEndtime": 2145887938,
+                "salesNo": "100717047",
+                "brandImage": {
+                    "size1": "//d.vpimg1.com/upcb/2020/09/08/1/ias_6232412cd862212241083147a6572b67_570x273_90.jpg",
+                    "size2": "//d.vpimg1.com/upcb/2020/09/08/1/ias_6232412cd862212241083147a6572b67_320x153_90.jpg"
+                },
+                "mobileImageOne": "//d.vpimg1.com/upcb/2020/09/08/1/ias_6232412cd862212241083147a6572b67.jpg",
+                "agio": "<span class=\"salebg2\">0.4</span>折起",
+                "salesName": "女装 S.DEER/迪赛尼斯/FORTEI等专场",
+                "brandStoreSn": "",
+                "vendorSaleMessage": "",
+                "isSpecialBanner": "0",
+                "hiddenEndTime": 1,
+                "iconInfo": [],
+                "link": "//list.vip.com/100717047.html",
+                "showTimeFrom": 1595921996,
+                "topFiveCountTime": 1602640800
+            },
+            "100721805": {
+                "activeIndexTips": "",
+                "displayEndtime": 2145887938,
+                "salesNo": "100721805",
+                "brandImage": {
+                    "size1": "//d.vpimg1.com/upcb/2020/09/05/178/ias_c49a7633e043ba1d18e281b5ac1f5589_570x273_90.jpg",
+                    "size2": "//d.vpimg1.com/upcb/2020/09/05/178/ias_c49a7633e043ba1d18e281b5ac1f5589_320x153_90.jpg"
+                },
+                "mobileImageOne": "//d.vpimg1.com/upcb/2020/09/05/178/ias_c49a7633e043ba1d18e281b5ac1f5589.jpg",
+                "agio": "<span class=\"salebg2\">3</span>折封顶",
+                "salesName": "女装 La Chapelle SPORT等专场",
+                "brandStoreSn": "",
+                "vendorSaleMessage": "",
+                "isSpecialBanner": "0",
+                "hiddenEndTime": 1,
+                "iconInfo": [],
+                "link": "//list.vip.com/100721805.html",
+                "showTimeFrom": 1596123481,
+                "topFiveCountTime": 1602640800
+            },
+            "100732641": {
+                "activeIndexTips": "",
+                "displayEndtime": 1602864000,
+                "salesNo": "100732641",
+                "brandImage": {
+                    "size1": "//d.vpimg1.com/upcb/2020/10/12/85/ias_160249378542078_570x273_90.jpg",
+                    "size2": "//d.vpimg1.com/upcb/2020/10/12/85/ias_160249378542078_320x153_90.jpg"
+                },
+                "mobileImageOne": "//d.vpimg1.com/upcb/2020/10/12/85/ias_160249378542078.jpg",
+                "agio": "<span class=\"salebg2\">1</span>折起",
+                "salesName": "爱居兔Eichitoo女装专场",
+                "brandStoreSn": "10006141",
+                "vendorSaleMessage": "",
+                "isSpecialBanner": "0",
+                "hiddenEndTime": 0,
+                "iconInfo": [],
+                "link": "//list.vip.com/100732641.html",
+                "showTimeFrom": 1598925600,
+                "topFiveCountTime": 1602640800
+            },
+            "100757037": {
+                "activeIndexTips": "",
+                "displayEndtime": 1602864000,
+                "salesNo": "100757037",
+                "brandImage": {
+                    "size1": "//d.vpimg1.com/upcb/2020/09/18/172/ias_160039325671889_570x273_90.jpg",
+                    "size2": "//d.vpimg1.com/upcb/2020/09/18/172/ias_160039325671889_320x153_90.jpg"
+                },
+                "mobileImageOne": "//d.vpimg1.com/upcb/2020/09/18/172/ias_160039325671889.jpg",
+                "agio": "<span class=\"salebg2\">3.7</span>折封顶",
+                "salesName": "优衣美女装-大牌特卖",
+                "brandStoreSn": "10015182",
+                "vendorSaleMessage": "",
+                "isSpecialBanner": "0",
+                "hiddenEndTime": 0,
+                "iconInfo": [],
+                "link": "//list.vip.com/100757037.html",
+                "showTimeFrom": 1598925600,
+                "topFiveCountTime": 1602640800
+            },
+            "100776153": {
+                "activeIndexTips": "",
+                "displayEndtime": 1602864000,
+                "salesNo": "100776153",
+                "brandImage": {
+                    "size1": "//d.vpimg1.com/upcb/2020/08/10/67/ias_159704225362143_570x273_90.jpg",
+                    "size2": "//d.vpimg1.com/upcb/2020/08/10/67/ias_159704225362143_320x153_90.jpg"
+                },
+                "mobileImageOne": "//d.vpimg1.com/upcb/2020/08/10/67/ias_159704225362143.jpg",
+                "agio": "<span class=\"salebg2\">3</span>折封顶",
+                "salesName": "卡芙琳CAERPHILLY女鞋-最后疯抢",
+                "brandStoreSn": "10004674",
+                "vendorSaleMessage": "",
+                "isSpecialBanner": "0",
+                "hiddenEndTime": 0,
+                "iconInfo": [],
+                "link": "//list.vip.com/100776153.html",
+                "showTimeFrom": 1602468000,
+                "topFiveCountTime": 1602640800
+            },
+            "100778472": {
+                "activeIndexTips": "",
+                "displayEndtime": 1602864000,
+                "salesNo": "100778472",
+                "brandImage": {
+                    "size1": "//d.vpimg1.com/upcb/2020/09/03/16/ias_159912360548657_570x273_90.jpg",
+                    "size2": "//d.vpimg1.com/upcb/2020/09/03/16/ias_159912360548657_320x153_90.jpg"
+                },
+                "mobileImageOne": "//d.vpimg1.com/upcb/2020/09/03/16/ias_159912360548657.jpg",
+                "agio": "<span class=\"salebg2\">3</span>折封顶",
+                "salesName": "黛玛诗D'modes女装-最后疯抢专场",
+                "brandStoreSn": "10016461",
+                "vendorSaleMessage": "",
+                "isSpecialBanner": "0",
+                "hiddenEndTime": 0,
+                "iconInfo": [],
+                "link": "//list.vip.com/100778472.html",
+                "showTimeFrom": 1602468000,
+                "topFiveCountTime": 1602640800
+            }
+        }
+    }
+}

@@ -1,0 +1,22 @@
+.page-header{
+    margin: 0;
+    border-bottom: solid 1px pink;
+    /* background-color: pink; */
+  
+}
+
+.list-group-item{
+    margin-bottom: 10px;
+   
+}
+.intro{
+    height: 40px; 
+    overflow:hidden;
+    text-overflow: ellipsis;
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
+.listbg{
+    background-color: purple;
+}
