@@ -1,8 +1,8 @@
 <?php
     header("content-type: text/html;charset=utf-8");
     // 1 接收前端传递过来的数据 
-    $username = $_POST["username"];
-    $password = $_POST["password"];
+    $username = $_GET["username"];
+    $password = $_GET["password"];
 
 
     // 2 连接数据库

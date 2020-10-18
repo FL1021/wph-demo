@@ -46,18 +46,18 @@ header{
 }
 .nav_t{
     width: 1000px;
-    height: 100px;
+    height: 110px;
     margin:0 auto;
     /* background-color: salmon; */
 
 }
 .logo img{
-    height: 100px;
-    width: 160px;
+    height: 110px;
+    width: 134px;
     float: left;
 }
 .logo1 img{
-    height: 40px;
+    height: 37px;
     width: 303px;
     float: left;
    margin-top: 28px;
@@ -130,18 +130,14 @@ header{
 }
 /* nav */
 nav{
-    width: 100%;
+    width: 1000px;
     height: 43px;
+    margin: 0 auto;
     /* background-color: pink; */
     position: relative;
+    /* border:1px solid #f10180; */
 }
-nav .nav{
-    width: 1000px;
-    margin:0 auto;
-    background-color: pink;
-    height: 100%;
-    overflow: hidden;
-}
+ 
 /* 左导航 */
 nav .nav .dropdown {
     float: left;
@@ -214,134 +210,23 @@ nav .nav .dropdown ul li a:hover{
 .navitems ul li a:hover{
     color: #f10180;
 }
-/* 轮播 */
- /* 最外层盒子 */
- .swiper-container {
-    width: 976px;
-    height: 340px;
-    margin:0 auto;
-    /* margin-top: 130px; */
-    /* margin-left: 10px; */
-}
-
-/* 图片 */
-.swiper-container img {
-    display: block;
-    height: 100%;
-    width: 100%;
-    overflow: hidden;
-}
-
-/* 左右按钮 */
-/* .swiper-container .swiper-button-prev,
-.swiper-container .swiper-button-next {
-    height: 1px;
-    margin: auto;
-} */
-.swiper-container{
-    --swiper-theme-color: #ff6600;/* 设置Swiper风格 */
-    --swiper-navigation-color: #00ff33;/* 单独设置按钮颜色 */
-    --swiper-navigation-size: 30px;/* 设置按钮大小 */
-}
-/* 隐藏左右按钮 */
-.swiper-container .hide{
-opacity:0;
-}
-.swiper-button-next,.swiper-button-prev{
-transition:opacity 0.5s;
-}
+/* banner */
 .bg{
  
-        width: 100%;
-        height: 400px;
-        position: relative;
-        overflow: hidden;
-      }
+    width: 100%;
+    height: 260px;
+    position: relative;
+    overflow: hidden;
+  }
 .bg>img {
-        height: 400px;
-        position: absolute;
-        left: 50%;
-        top: 0;
-        transform: translate(-50%, 0);
-        /* margin-left:-1180px; */
-      }
-/*电梯导航*/
-
-.fixedtool {
-    position: fixed;
-    top: 150px;
+    height: 260px;
+    position: absolute;
     left: 50%;
-    margin-left: -610px;
-    width: 66px;
-    background-color: #fff;
-    z-index: 100;
-    border:2px solid pink;
-}
-
-.fixedtool li {
-    height: 32px;
-    line-height: 32px;
-    text-align: center;
-    font-size: 12px;
-    border-bottom: 1px solid #ccc;
-    cursor: pointer;
-}
-
-.fixedtool .current {
-    /* background-color: #c81623; */
-    color: #fff;
-}
-.fixedtool li a:hover{
-    color: white;
-}
-.fixedtool li:hover{
-    background-color:#f10180 ;
-}
-/* 内容 */
-.content{
-    width: 100%;
-}
-.content .longimg {
-    width: 1000px;
-    margin:0 auto;
-}
-.content .longimg img{
-    width: 100%;
-}
-.threeImg{
-    width: 1000px;
-    margin:0 auto;
-}
-.threeimg{
-    width: 328px;
-    height: 217px;
-    float: left;
-}
-.longcontent{
-    width: 1000px;
-    margin:0 auto;
-}
-.longcontent .longcot{
-    float: left;
-    width: 1000px;
-    height: 32px;
-    background-color: white;
-}
-.longcontent .longcot img{
-    /* width: 100%; */
-    float: left;
-    width: 200px;
-   
-}
-.longcontent .longcot p{
-    float: right;
-}
-/* 渲染数据 */
-.main_box{
-    /* height: auto; */
-    /* background-color: pink; */
-       width: 1000px;
-}
+    top: 0;
+    transform: translate(-50%, 0);
+    /* margin-left:-1180px; */
+  }
+/* 渲染 */
 .clearfix:after{
     content:"";				/*设置内容为空*/
     height:0;				/*高度为0*/
@@ -354,79 +239,79 @@ transition:opacity 0.5s;
     zoom:1;					/*为了兼容IE*/
 }
 
-.info{
-    width: 490px;
-    height: 600px;
-    /* background-color: wheat; */
-    float: left; 
-    border:4.5px solid white;
-}
-.info .info-img{
-    width: 490px;
-    height: 500px;
-    /* float: left;     */
-}
-.info .info-img img{
-    width: 100%;
-     height: 100%;
-}
-.info .info-mes h3{
-    margin-top: 18px;
-    margin-bottom: 5px;
-    cursor: pointer;
-    font-family: MicrosoftYaHei;
-    font-weight: 700;
-    font-size: 18px;
-    color: #333;
-    overflow: hidden;
+/* 渲染的数据*/
+
+
+.intro{
+    color: black;
+    font-size: 12px;
+    height: 50px; 
+    overflow:hidden;
     text-overflow: ellipsis;
-    white-space: nowrap;
-    width: 455px;
-    display: block;
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
 }
-.info .info-mes p{
-    color: #4d4d4d;
-    font-size: 16px;
-    margin-right: 10px;
-  
-    font-family: MicrosoftYaHei;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    display: inline-block;
+.listbg{
+    background-color: purple;
 }
-.info .info-mes p .salebg2{
-    font-family: Arial;
-    font-size: 18px;
-    color: #f10582;
-    margin-right: 3px;
-    font-weight: 700;
+.list_price{
+    font-size: 20px;
+    color:#f10180;
 }
-/* 底部盒子 */
-.b_btn{
+/* 列表 */
+.container{
     width: 1000px;
-    height: 48px;
-    margin:0 auto;
-    /* background-color: yellow; */
+    margin: 0 auto;
 }
-.b_btn_big a{
-    width: 324px;
-    display: block;
-    color: #fff;
-    height: 44px;
-    background-color: #f10180;
-    border-bottom-left-radius: 4px;
-    border-bottom-right-radius: 4px;
-    font-size: 16px;
+.list{
+    height: auto;
+    width: 100%;
+    /* background-color: pink; */
+}
+
+.list ul{
+    width: 240px;
+    /* height: 300px; */
+    float: left;
+    border: 3px solid white;
+}
+
+.list ul li{
+    float: left;
+    margin-bottom: 10px;
+    border:1px solid pink;
+}
+/* 按钮 */
+.bottom_btn{
+    margin:0 auto;
+    /* background-color: pink; */
+    width: 1000px;
     text-align: center;
-    line-height: 44px;
-    margin: -1px auto 20px;
+    /* height: 10px; */
 }
-.b_btn_small{
-    height: 4px;
+.bottom_btn ul{
+    width:600px;
+    /* text-align: center; */
+
+    margin: 10px 300px;
+}
+.bottom_btn ul li{
+    float: left;
+    text-align: center;
+    border: 1px solid #f10180;
+    width: 20px;
+    height: 100%;
+    margin: 0 5px;
+    border-radius: 5px;
+    
+}
+.bottom_btn ul li a:hover{
+    /* background-color: #f10180; */
+    color: white;
+}
+.bottom_btn ul li:hover{
     background-color: #f10180;
-    width: 16px;
-    margin:0 auto;
 }
 /* footer */
 .footer {

@@ -1,7 +1,7 @@
 <?php
     // 获取前端传递过来的信息
-    $username = $_POST["username"];
-    $password = $_POST["password"];
+    $username = $_GET["username"];
+    $password = $_GET["password"];
 
     // 连接数据库
     mysql_connect('localhost', "root", "root");

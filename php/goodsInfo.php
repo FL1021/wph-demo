@@ -3,7 +3,7 @@
     // 连接数据库
     mysql_connect('localhost', "root", "root");
     // 选择数据库
-    mysql_select_db("gz2006");
+    mysql_select_db("wph");
     // 定义sql语句
     $sql = "SELECT * FROM goods";
     // 执行

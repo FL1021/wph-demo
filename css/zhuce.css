@@ -71,10 +71,53 @@ header{
 .fg1{
     width: 300px;
     margin-left: 30px;
+    padding:0;
+    margin-bottom: 30px;
+
+}
+.fg1 span{
+    /* height: 20px; */
+    font-size: 12px;
+    position: absolute;
+    color: #f10180;
+    /* background-color: seagreen; */
+}
+/* 验证码 */
+.yz{
+    width: 120px;
+    margin-left: 30px;
+    padding:0;
+    position: relative;
+    margin-bottom: 30px;
+
+}
+.inp-fr{
+    width: 80px; 
+    height: 30px;
+    border-radius: 5px;
+    background-color: #f10180;
+    position: absolute;
+    top: 1px;
+    left: 130px;
+    text-align: center;
+    color: white;
+    line-height: 30px;
+    cursor: pointer;
+    /* float: right; */
+    /* display: inline-block; */
 }
 .fg2{
     width: 300px;
     margin-left: 30px;
+    padding:0;
+    margin-bottom: 30px;
+}
+.fg2 span{
+    /* height: 100px; */
+    font-size: 12px;
+    position: absolute;
+    color: #f10180;
+    /* background-color: seagreen; */
 }
 .md_p{
     width: 300px;
@@ -87,6 +130,21 @@ header{
 .md_p .a-p2{
     float: right;
     cursor: pointer;
+}
+/* 条约选择 */
+.rule_select{
+    width: 300px;
+    margin-left: 30px;
+    font-size: 12px;
+}
+.rule_select a{
+    color: #1D94D1;
+    font-size: 12px;
+    text-decoration: none;
+}
+.rule_select a:hover{
+    color: blue;
+   
 }
 /* 登录注册btn */
 #submitBtn{
